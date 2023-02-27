@@ -1,7 +1,9 @@
 line1
 
+line2
 
 
+<<<<<<< HEAD
 line5
 
 
@@ -19,3 +21,12 @@ line10
 >>>>>>> add line10
 =======
 >>>>>>> add line5
+=======
+
+
+line8
+
+line10
+
+line12
+>>>>>>> 79c37817873332770e0cbbfceabccacec20291dc
