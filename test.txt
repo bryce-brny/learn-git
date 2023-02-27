@@ -11,8 +11,11 @@ line9
 line10
 
 line12
+<<<<<<< HEAD
 =======
 line8
 
 line10
 >>>>>>> add line10
+=======
+>>>>>>> add line5
